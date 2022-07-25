@@ -1,0 +1,59 @@
+{
+  "minecraft": {
+    "version": "1.19",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.8",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Flavortown SMP",
+  "version": "1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 311377,
+      "fileID": 3866286,
+      "required": true
+    },
+    {
+      "projectID": 608235,
+      "fileID": 3859582,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3895577,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3851965,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3820973,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 3821021,
+      "required": true
+    },
+    {
+      "projectID": 495191,
+      "fileID": 3878977,
+      "required": true
+    },
+    {
+      "projectID": 410902,
+      "fileID": 3864569,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
