@@ -1,4 +1,6 @@
-# Flavortown-SMP-Modpack
+![thumb](./flavortown-modpack-thumbnail.png)
+
+# Flavortown SMP Modpack
 A Minecraft Fabric modpack for the Flavortown SMP.
 
 ## Requirements
