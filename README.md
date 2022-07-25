@@ -17,13 +17,11 @@ Remember that any mods on the server should also be on the client. Fabric versio
 
 ## Mods
 
-<ul>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/betternether">BetterNether (by Quiqueck)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master">YDM's Weapon Master (by YourDailyModderx)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items (JEI) (by mezz)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api">Fabric API (by modmuss50)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/sodium">Sodium (by jellysquid3_)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/irisshaders">Iris Shaders (by coderbot)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/bclib">BCLib (by Quiqueck)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-waystones">Fabric Waystones (by LordDeatHunter)</a></li>
-</ul>
+* [BetterNether (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/betternether)
+* [YDM's Weapon Master (by YourDailyModderx)](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
+* [Just Enough Items (JEI) (by mezz)](https://www.curseforge.com/minecraft/mc-mods/jei)
+* [Fabric API (by modmuss50)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* [Sodium (by jellysquid3\_)](https://www.curseforge.com/minecraft/mc-mods/sodium)
+* [Iris Shaders (by coderbot)](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+* [BCLib (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/bclib)
+* [Fabric Waystones (by LordDeatHunter)](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)
