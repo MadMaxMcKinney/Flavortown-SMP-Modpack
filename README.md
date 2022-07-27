@@ -3,6 +3,10 @@
 # Flavortown SMP Modpack
 A Minecraft Fabric modpack for the Flavortown SMP.
 
+## The Experience
+
+This pack is focused on mystical exploration. With mods like Terralith and BetterNether you can expect and expanded overworld and underworld with a focus in variety. To help navigate the broader world you can use the Waystone mod for teleportation obelisks. To improve the overall Minecraft experience some quality of life mods have also been included - JEI adds a recipe menu, and Sodium/Iris provide improved performance and shader support.
+
 ## Requirements
 
 ![https://img.shields.io/badge/Fabric-0.14.6-blue](https://img.shields.io/badge/Fabric-0.14.6-blue)
@@ -25,3 +29,4 @@ Remember that any mods on the server should also be on the client. Fabric versio
 * [Iris Shaders (by coderbot)](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 * [BCLib (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/bclib)
 * [Fabric Waystones (by LordDeatHunter)](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)
+* [Terralith (by Starmute)](https://www.curseforge.com/minecraft/mc-mods/terralith)
