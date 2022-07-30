@@ -11,27 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Flavortown SMP",
-  "version": "2",
-  "author": "",
+  "version": "3",
+  "author": "MadMaxMcKinney",
   "files": [
-    {
-      "projectID": 311377,
-      "fileID": 3866286,
-      "required": true
-    },
     {
       "projectID": 608235,
       "fileID": 3859582,
-      "required": true
-    },
-    {
-      "projectID": 513688,
-      "fileID": 3874530,
-      "required": true
-    },
-    {
-      "projectID": 238222,
-      "fileID": 3895577,
       "required": true
     },
     {
@@ -40,8 +25,28 @@
       "required": true
     },
     {
+      "projectID": 311377,
+      "fileID": 3866286,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3895577,
+      "required": true
+    },
+    {
+      "projectID": 311120,
+      "fileID": 3827640,
+      "required": true
+    },
+    {
       "projectID": 394468,
       "fileID": 3820973,
+      "required": true
+    },
+    {
+      "projectID": 636540,
+      "fileID": 3878691,
       "required": true
     },
     {
@@ -57,6 +62,11 @@
     {
       "projectID": 495191,
       "fileID": 3878977,
+      "required": true
+    },
+    {
+      "projectID": 513688,
+      "fileID": 3874530,
       "required": true
     }
   ],

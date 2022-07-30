@@ -22,11 +22,24 @@ Remember that any mods on the server should also be on the client. Fabric versio
 ## Mods
 
 * [BetterNether (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/betternether)
+    * Improved Nether experience with new biomes, blocks, and items.
 * [YDM's Weapon Master (by YourDailyModderx)](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
+    * Visual mod that shows equipped items on your character
 * [Just Enough Items (JEI) (by mezz)](https://www.curseforge.com/minecraft/mc-mods/jei)
+    * Useful recipe mod that shows all blocks/item/etc in your inventory menu
 * [Fabric API (by modmuss50)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+    * Not a content mod. Library mod needed by other mods.
 * [Sodium (by jellysquid3\_)](https://www.curseforge.com/minecraft/mc-mods/sodium)
+    * Performance improvement mod
 * [Iris Shaders (by coderbot)](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+    * Shaders that are compatible with Sodium
 * [BCLib (by Quiqueck)](https://www.curseforge.com/minecraft/mc-mods/bclib)
+    * Not a content mod. Library mod needed by other mods.
 * [Fabric Waystones (by LordDeatHunter)](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones)
+    * Teleportation obelisks that can appear naturally and be crafted.
 * [Terralith (by Starmute)](https://www.curseforge.com/minecraft/mc-mods/terralith)
+    * Vanilla friendly biome generation. No new blocks. 80+ biomes and large varieties.
+* [Couplings (by HeckinChloe)](https://www.curseforge.com/minecraft/mc-mods/couplings)
+    * Items like doors and trapdoors will open adjacent doors.
+* [Structory (by botanydev)](https://www.curseforge.com/minecraft/mc-mods/structory)
+    * Adds new structure generation.
